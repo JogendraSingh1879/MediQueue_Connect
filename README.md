@@ -1,7 +1,7 @@
 # MediQueue_Connect
 MediQueue Connect — Full-stack healthcare consultation and digital clinic management platform for doctors, patients, clinic staff, and admins.
 visit the link for MOCk Demo: 
-https://delightful-fudge-bbed9f.netlify.app/
+(https://mediqueue-connect.netlify.app/)
 
 MediQueue Connect is a full-stack healthcare consultation and digital clinic management platform built for India’s next generation of doctors, clinics, and patients. The app enables verified doctors to manage online and in-clinic consultations, patient records, queue flow, payments, video consultations, prescriptions, staff attendance, clinic inventory, medicine stock, and medical knowledge references from one unified dashboard.
 
